@@ -18,3 +18,5 @@ Dyck, E., & Russell, G. (2020). Challenging psychiatric classification: Healthy 
 Fischbach, G. D., & Lord, C. (2010). The Simons Simplex Collection: a resource for identification of autism genetic risk factors. *Neuron, 68(2)*, 192-195.
 
 Pellicano, E., & den Houting, J. (2022). Annual Research Review: Shifting from ‘normal science’to neurodiversity in autism science. *Journal of Child Psychology and Psychiatry, 63(4)*, 381-396.
+
+Tick, B., Bolton, P., Happé, F., Rutter, M., & Rijsdijk, F. (2016). Heritability of autism spectrum disorders: a meta‐analysis of twin studies. *Journal of Child Psychology and Psychiatry*, *57*(5), 585-595.
